@@ -231,6 +231,6 @@ ORDER BY order_year, order_month;
 **Vamsi Bodigadla**, BCA graduate (2026) with a Data Analytics background (Python, SQL, Power BI, Excel), now building data engineering skills.
 
 - LinkedIn: [vamsi-bodigadla-717330244](https://www.linkedin.com/in/vamsi-bodigadla-717330244)
-- GitHub: [u200cbvt](https://github.com/u200cbvt)
+- GitHub: [u200cbvt](https://github.com/sarvendhra-vamsi)
 
 Licensed under the [MIT License](LICENSE).

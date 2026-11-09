@@ -4,7 +4,7 @@
 ![Lakeflow](https://img.shields.io/badge/Lakeflow_Spark_Declarative_Pipelines-0B2026)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=databricks&logoColor=white)
 ![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-1B3139)
-![Architecture](https://img.shields.io/badge/Architecture-Medallion-D4A017)
+![Architecture]([https://img.shields.io/badge/Architecture-Medallion-D4A017](https://camo.githubusercontent.com/f800a6d8b6ba1999f0f14e3dc5bc9f99b48b7bafb02295efac20cf6638888b74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4172636869746563747572652d4d6564616c6c696f6e2d443441303137))
 
 An end-to-end **Medallion Architecture (Bronze → Silver → Gold)** pipeline built on Databricks with **Lakeflow Spark Declarative Pipelines** and SQL. It turns a raw retail sales CSV into trusted, business-ready reporting tables, with data-quality checks and cross-layer reconciliation built in.
 
